@@ -1,8 +1,9 @@
 package ru.netology;
 
-import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
+import org.testng.annotations.Test;
+
 import static com.codeborne.selenide.Condition.visible;
 import java.time.Duration;
 import java.time.LocalDate;
